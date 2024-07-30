@@ -7,7 +7,7 @@ This repo is a collection of exploits that I have discovered and currently have 
 
 ### CVE-2024-7303
 
-[CVE-2024-7303] (https://github.com/cl4irv0yance/CVEs/blob/main/CVE-2024-7303/CVE-2024-7303.md)
+Full Writeup: https://github.com/cl4irv0yance/CVEs/blob/main/CVE-2024-7303/CVE-2024-7303.md
 
 ### Overview
 
